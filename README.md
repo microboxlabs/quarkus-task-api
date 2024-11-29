@@ -2,8 +2,13 @@
 This technical test requires you to design and implement a **Task Management System backend** using **Java Quarkus**. The backend will help MicroboxLabs manage tasks by creating, assigning, and tracking the progress of tasks assigned to individual users or groups.
 
 #### **Before You Begin**
-Create a private GitHub repository and invite the provided collaborators: `@korutx`, `@odtorres`. Should you have any questions, contact `devtest@microboxlabs.com`.  
-**Title of the project**: Backend-Test-(Last Name)
+Fork this repository and invite the provided collaborators: `@korutx`, `@odtorres`. Should you have any questions, contact `devtest@microboxlabs.com`. 
+
+#### **Guidelines**
+
+- We provide a basic Quarkus project with a basic setup.
+- You can use any additional libraries or tools you see fit, but make sure to justify your choices.
+- Quarkus documentation is available [here](https://quarkus.io/guides/).
 
 #### **Problem Description**
 MicroboxLabs requires a backend solution to manage tasks, assign them to individuals or groups, and track their progress. The system should allow **Admins** to create and assign tasks while **Regular Users** can manage their assigned tasks, marking them as complete and updating their progress.
